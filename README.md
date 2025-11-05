@@ -10,9 +10,9 @@ This repo contains everything you need for the 2-hour session:
 ---
 
 ## 🔗 Quick Links
-- [🧩 Problem Basket](./PROBLEM_BASKET.md)
-- [🚀 Get Started Guide](./GET_STARTED.md)
-- [📖 Further Reading](./FURTHER_READING.md)
+- [🧩 Problem Basket](./PROBLEM_BASKET.MD)
+- [🚀 Get Started Guide](./GET_STARTED.MD)
+- [📖 Further Reading](./FURTHER_READING.MD)
 - [📂 Resources Folder](./RESOURCES)
 
 ---
@@ -23,4 +23,4 @@ This repo contains everything you need for the 2-hour session:
 3. Build using AI + no-code tools  
 4. Prepare your 1-minute demo pitch  
 
-Mentors are available throughout — just ask if you’re stuck!
+Mentors are available throughout - just ask if you’re stuck!
